@@ -1,0 +1,10 @@
+.NavItem{
+    padding: 20px 0;
+    margin: 0 30px;
+
+}
+.NavLink{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}

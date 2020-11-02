@@ -1,0 +1,15 @@
+.Button{
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.Cancel{
+    background-color: red;
+
+}
+
+.Confirm{
+    background-color: limegreen;
+}

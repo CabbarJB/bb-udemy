@@ -1,0 +1,21 @@
+.SingleBuildControlWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.BuildControlName{
+font-size: 20px;
+    font-weight: bold;
+}
+
+.ButtonsWrapper{
+    margin-left: 20px;
+}
+
+.Button{
+margin-left: 20px;
+    width: 80px;
+    padding: 5px 0;
+}

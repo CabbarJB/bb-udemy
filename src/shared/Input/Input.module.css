@@ -1,0 +1,9 @@
+.Error{
+    color: red;
+    font-size: 14px;
+    text-align: center;
+}
+
+.Invalid{
+    border: 1px solid red;
+}
